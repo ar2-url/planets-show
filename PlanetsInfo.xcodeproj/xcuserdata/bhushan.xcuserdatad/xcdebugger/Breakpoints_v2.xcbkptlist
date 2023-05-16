@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "BB7465A2-C971-452D-B6F0-74C3B87D0C10"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EA383CEE-EF54-47BA-8B4E-C3DC2C205874"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PlanetsInfo/Repository/PlanetsRepositoryImplemantation.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "getPlanetsList(for:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EA383CEE-EF54-47BA-8B4E-C3DC2C205874 - 43e8b5861d0ae59a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for PlanetsInfo.PlanetsRepositoryImplemantation.getPlanetsList(for: Foundation.URL) async throws -&gt; Swift.Array&lt;PlanetsInfo.Planet&gt;"
+                  moduleName = "PlanetsInfo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bhushan/Downloads/PlanetsInfo/PlanetsInfo/Repository/PlanetsRepositoryImplemantation.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "1032">
+               </Location>
+               <Location
+                  uuid = "EA383CEE-EF54-47BA-8B4E-C3DC2C205874 - 984d2eb9d4cc841b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for PlanetsInfo.PlanetsRepositoryImplemantation.getPlanetsList(for: Foundation.URL) async throws -&gt; Swift.Array&lt;PlanetsInfo.Planet&gt;"
+                  moduleName = "PlanetsInfo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bhushan/Downloads/PlanetsInfo/PlanetsInfo/Repository/PlanetsRepositoryImplemantation.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "1041">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A7C75F48-3E37-4B44-BD47-754F2A434412"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PlanetsInfo/Repository/PlanetsRepositoryImplemantation.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "getPlanetsList(for:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A7C75F48-3E37-4B44-BD47-754F2A434412 - 43e8b5861d0ae21e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for PlanetsInfo.PlanetsRepositoryImplemantation.getPlanetsList(for: Foundation.URL) async throws -&gt; Swift.Array&lt;PlanetsInfo.Planet&gt;"
+                  moduleName = "PlanetsInfo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bhushan/Downloads/PlanetsInfo/PlanetsInfo/Repository/PlanetsRepositoryImplemantation.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "273">
+               </Location>
+               <Location
+                  uuid = "A7C75F48-3E37-4B44-BD47-754F2A434412 - 43e8b5861d0ae21e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for PlanetsInfo.PlanetsRepositoryImplemantation.getPlanetsList(for: Foundation.URL) async throws -&gt; Swift.Array&lt;PlanetsInfo.Planet&gt;"
+                  moduleName = "PlanetsInfo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bhushan/Downloads/PlanetsInfo/PlanetsInfo/Repository/PlanetsRepositoryImplemantation.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "338">
+               </Location>
+               <Location
+                  uuid = "A7C75F48-3E37-4B44-BD47-754F2A434412 - 984d2eb9d4cc839f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for PlanetsInfo.PlanetsRepositoryImplemantation.getPlanetsList(for: Foundation.URL) async throws -&gt; Swift.Array&lt;PlanetsInfo.Planet&gt;"
+                  moduleName = "PlanetsInfo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bhushan/Downloads/PlanetsInfo/PlanetsInfo/Repository/PlanetsRepositoryImplemantation.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "258">
+               </Location>
+               <Location
+                  uuid = "A7C75F48-3E37-4B44-BD47-754F2A434412 - 984d2eb9d4cc839f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for PlanetsInfo.PlanetsRepositoryImplemantation.getPlanetsList(for: Foundation.URL) async throws -&gt; Swift.Array&lt;PlanetsInfo.Planet&gt;"
+                  moduleName = "PlanetsInfo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bhushan/Downloads/PlanetsInfo/PlanetsInfo/Repository/PlanetsRepositoryImplemantation.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "339">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4BADDF60-ACDD-47F7-BE8C-2E1176FEC8E1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PlanetsInfo/View/PlanetListView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "4BADDF60-ACDD-47F7-BE8C-2E1176FEC8E1 - 3344559d0163c20f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #2 @Sendable () async -&gt; () in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.navigationTitle(SwiftUI.Text) -&gt; some&gt;&gt;.0 in PlanetsInfo.PlanetListView.body.getter : some"
+                  moduleName = "PlanetsInfo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bhushan/Downloads/PlanetsInfo/PlanetsInfo/View/PlanetListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "4BADDF60-ACDD-47F7-BE8C-2E1176FEC8E1 - dfd7497011ae116"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for closure #2 @Sendable () async -&gt; () in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.navigationTitle(SwiftUI.Text) -&gt; some&gt;&gt;.0 in PlanetsInfo.PlanetListView.body.getter : some"
+                  moduleName = "PlanetsInfo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bhushan/Downloads/PlanetsInfo/PlanetsInfo/View/PlanetListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "34">
+               </Location>
+               <Location
+                  uuid = "4BADDF60-ACDD-47F7-BE8C-2E1176FEC8E1 - 19e3aa71eb5c8e0d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #2 @Sendable () async -&gt; () in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.navigationTitle(SwiftUI.Text) -&gt; some&gt;&gt;.0 in PlanetsInfo.PlanetListView.body.getter : some"
+                  moduleName = "PlanetsInfo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bhushan/Downloads/PlanetsInfo/PlanetsInfo/View/PlanetListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "47">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "551E2F3E-83CF-4474-AFD1-B260EF22C06E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PlanetsInfo/View/PlanetListView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "94C6694B-07F1-436C-8850-090DE3DF259B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PlanetsInfo/ViewModel/PlanetsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "getDataForPlanetsList(for:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E10731FD-019F-4295-9779-B1BD83358825"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PlanetsInfo/Repository/PlanetsRepositoryImplemantation.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "getPlanetsList(for:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E10731FD-019F-4295-9779-B1BD83358825 - f3783f6af77bff1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for PlanetsInfo.PlanetsRepositoryImplemantation.getPlanetsList(for: Foundation.URL) async throws -&gt; Swift.Array&lt;PlanetsInfo.Planet&gt;"
+                  moduleName = "PlanetsInfo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bhushan/Downloads/PlanetsInfo/PlanetsInfo/Repository/PlanetsRepositoryImplemantation.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "117">
+               </Location>
+               <Location
+                  uuid = "E10731FD-019F-4295-9779-B1BD83358825 - 70630e3a074afcbe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for PlanetsInfo.PlanetsRepositoryImplemantation.getPlanetsList(for: Foundation.URL) async throws -&gt; Swift.Array&lt;PlanetsInfo.Planet&gt;"
+                  moduleName = "PlanetsInfo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bhushan/Downloads/PlanetsInfo/PlanetsInfo/Repository/PlanetsRepositoryImplemantation.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "47">
+               </Location>
+               <Location
+                  uuid = "E10731FD-019F-4295-9779-B1BD83358825 - 43e8b5861d0ae2f3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for PlanetsInfo.PlanetsRepositoryImplemantation.getPlanetsList(for: Foundation.URL) async throws -&gt; Swift.Array&lt;PlanetsInfo.Planet&gt;"
+                  moduleName = "PlanetsInfo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bhushan/Downloads/PlanetsInfo/PlanetsInfo/Repository/PlanetsRepositoryImplemantation.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "179">
+               </Location>
+               <Location
+                  uuid = "E10731FD-019F-4295-9779-B1BD83358825 - 984d2eb9d4cc8372"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for PlanetsInfo.PlanetsRepositoryImplemantation.getPlanetsList(for: Foundation.URL) async throws -&gt; Swift.Array&lt;PlanetsInfo.Planet&gt;"
+                  moduleName = "PlanetsInfo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bhushan/Downloads/PlanetsInfo/PlanetsInfo/Repository/PlanetsRepositoryImplemantation.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "166">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
